@@ -1,0 +1,5 @@
+print('olá, munde''👽')
+print('Buenos dias a todes desse planeta''👽')
+print('Tenho uma pergunta a vocês''👽')
+print('Sabe por que não existe... ''👽')
+print('Flor pret-''👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽')
